@@ -2,7 +2,7 @@
 Name : AdsNetworkPayment
 Symbol : ANP
 contract Address : 0x502f1db98e2ae2fb6ae78ef346aa2af37608b458
-Description : ANP is a token that will operate in the field of advertising. Ads coin can be used as an exchange tool to finance an advertisement. whether it is real advertising or online. ANP token planning will be useful as a medium of exchange for company.
+Description : ANP is a token that will operate in the field of advertising. ANP token can be used as an exchange tool to finance an advertisement. whether it is real advertising or online. ANP token planning will be useful as a medium of exchange for company.
 https://etherscan.io/token/0x502f1db98e2ae2fb6ae78ef346aa2af37608b458
 Total supply : 1,200,000,000
 Softcap : 450 Eth
